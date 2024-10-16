@@ -19,6 +19,7 @@ services:
     restart: always
     ports:
       - 8080:80
+
   db:
     image: mysql:8.0
     container_name: db
@@ -26,14 +27,12 @@ services:
       - db_data:/var/lib/mysql
       # This is optional!!!
       - ./dump.sql:/docker-entrypoint-initdb.d/dump.sql
-      # # #
     environment:
       MYSQL_DATABASE: exampledb
       MYSQL_USER: exampleuser
       MYSQL_PASSWORD: examplepass
       MYSQL_RANDOM_ROOT_PASSWORD: '1'
-      
-      restart: always
+    restart: always
+
 volumes:
   db_data:
-
