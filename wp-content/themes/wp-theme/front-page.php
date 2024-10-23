@@ -10,11 +10,11 @@ get_header(); // This will include header.php
    <section class="bg-white dark:bg-gray-900 py-24">
     <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
                <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">We invest in the world’s potential</h1>
-        <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.</p>
+<p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">
+Powering the Future of Web Performance. At TurboTech, we specialize in building blazing-fast websites that accelerate growth and unlock digital potential. Our cutting-edge technology fuels your online presence, driving lasting value and success.</p>
         <div class="flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
                        <a href="#" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
-                <svg class="mr-2 -ml-1 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M2 6a2 2 0 012-2h6a2 2 0 012 2v8a2 2 0 01-2 2H4a2 2 0 01-2-2V6zM14.553 7.106A1 1 0 0014 8v4a1 1 0 00.553.894l2 1A1 1 0 0018 13V7a1 1 0 00-1.447-.894l-2 1z"></path></svg>
-                Watch video
+                Read more
             </a>  
         </div>
                
@@ -186,7 +186,7 @@ get_header(); // This will include header.php
                       </div>
                       <h4 class="text-xl font-semibold text-gray-900 mb-3 capitalize transition-all duration-500 group-hover:text-white">Easy Payment</h4>
                       <p class="text-sm font-normal text-gray-500 transition-all duration-500 leading-5 group-hover:text-white">
-                          We Provide Various Methods For You To Carry Out All Transactions Related To Your Finances 
+                          We provide seamless payment methods to simplify all transactions on your website.
                       </p>
                   </div>
                   <div class="group relative w-full bg-gray-100 rounded-2xl p-4 transition-all duration-500 max-md:max-w-md max-md:mx-auto md:w-2/5 md:h-64 xl:p-7 xl:w-1/4 hover:bg-indigo-600">
@@ -198,7 +198,7 @@ get_header(); // This will include header.php
                       </div>
                       <h4 class="text-xl font-semibold text-gray-900 mb-3 capitalize transition-all duration-500 group-hover:text-white">Safe Transaction</h4>
                       <p class="text-sm font-normal text-gray-500 transition-all duration-500 leading-5 group-hover:text-white">
-                          We have the most up-to-date security to support the security of all our customers in carrying out all transactions.  
+                          Our advanced security protocols ensure safe, encrypted transactions every time. 
                       </p>
                   </div>
                   <div class="group relative w-full bg-gray-100 rounded-2xl p-4 transition-all duration-500 max-md:max-w-md max-md:mx-auto md:w-2/5 md:h-64 xl:p-7 xl:w-1/4 hover:bg-indigo-600">
@@ -210,7 +210,7 @@ get_header(); // This will include header.php
                       </div>
                       <h4 class="text-xl font-semibold text-gray-900 mb-3 capitalize transition-all duration-500 group-hover:text-white">Fast Customer Service </h4>
                       <p class="text-sm font-normal text-gray-500 transition-all duration-500 leading-5 group-hover:text-white">
-                          Provide Customer Service For Those Of You Who Have Problems 24 Hours A Week  
+                          Receive 24/7 customer support from experts ready to help you optimize your site 
                       </p>
                   </div>
                   <div class="group relative w-full bg-gray-100 rounded-2xl p-4 transition-all duration-500 max-md:max-w-md max-md:mx-auto md:w-2/5 md:h-64 xl:p-7 xl:w-1/4 hover:bg-indigo-600">
@@ -222,19 +222,12 @@ get_header(); // This will include header.php
                       </div>
                       <h4 class="text-xl font-semibold text-gray-900 mb-3 capitalize transition-all duration-500 group-hover:text-white">Quick Transaction</h4>
                       <p class="text-sm font-normal text-gray-500 transition-all duration-500 leading-5 group-hover:text-white">
-                          We provide faster transaction speeds than competitors, so money arrives and is received faster. 
+                          Fast reliable performance ensures smoother transactions and a better user experience.. 
                       </p>
                   </div>
               </div>
         </div>
       </section>
-                                                
-
-                                    
-                                                         
-
-
-   
 
     <section class="py-14 lg:py-24 relative">
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative ">
@@ -244,16 +237,9 @@ get_header(); // This will include header.php
                     <div class="data w-full">
                         <img src="https://pagedone.io/asset/uploads/1702034785.png" alt="About Us tailwind page"
                             class="block lg:hidden mb-9 mx-auto object-cover">
-                        <h2 class="font-manrope font-bold text-4xl lg:text-5xl text-black mb-9 max-lg:text-center">We
-                            are Creative Since 2005</h2>
+                        <h2 class="font-manrope font-bold text-4xl lg:text-5xl text-black mb-9 max-lg:text-center">Leading Web Performance Innovation Since 2005</h2>
                         <p class="font-normal text-xl leading-8 text-gray-500 max-lg:text-center max-w-2xl mx-auto">
-                            Pagedone isn’t just a collection of components and guidelines; it's a philosophy. We go
-                            beyond aesthetics, prioritizing accessibility, scalability, and usability. Every element,
-                            from the tiniest
-                            detail to the grandest layout, is meticulously crafted to enhance functionality and elevate
-                            user
-                            satisfaction.
-                        </p>
+                             At TurboTech, we don't just create websites; we craft high-speed digital experiences. With a focus on performance, scalability, and user-centric design, our mission is to deliver websites that load faster, work better, and boost engagement. Each site we build is engineered to maximize efficiency and user satisfaction, down to the smallest detail.                       </p>
                     </div>
                 </div>
                 <div class="img-box ">
@@ -266,7 +252,7 @@ get_header(); // This will include header.php
 
     <section class="py-20 bg-white">
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-            <h2 class="font-manrope text-4xl text-center text-gray-900 font-bold mb-14">Our results in numbers</h2>
+            <h2 class="font-manrope text-4xl text-center text-gray-900 font-bold mb-14">Performance You Can Count On</h2>
             <div class="flex flex-col gap-5 xl:gap-8 lg:flex-row lg:justify-between">
                 <div
                     class="w-full max-lg:max-w-2xl mx-auto lg:mx-0 lg:w-1/3 bg-white p-6 rounded-2xl shadow-md shadow-gray-100">
@@ -275,22 +261,21 @@ get_header(); // This will include header.php
                             240%
                         </div>
                         <div class="flex-1">
-                            <h4 class="text-xl text-gray-900 font-semibold mb-2">Company growth</h4>
-                            <p class="text-xs text-gray-500 leading-5">Company's remarkable growth journey as we
-                                continually innovate and drive towards new heights of success.</p>
+                            <h4 class="text-xl text-gray-900 font-semibold mb-2">Growth</h4>
+                            <p class="text-xs text-gray-500 leading-5">Our clients have seen an average of 240% increase in site speed and user engagement after adopting TurboTech solutions.</p>
                         </div>
                     </div>
                 </div>
                 <div
                     class="w-full max-lg:max-w-2xl mx-auto lg:mx-0 lg:w-1/3 bg-white p-6 rounded-2xl shadow-md shadow-gray-100">
+
                     <div class="flex gap-5">
                         <div class="font-manrope text-2xl font-bold text-indigo-600">
                             175+
                         </div>
                         <div class="flex-1">
                             <h4 class="text-xl text-gray-900 font-semibold mb-2">Company growth</h4>
-                            <p class="text-xs text-gray-500 leading-5">Our very talented team members are the powerhouse
-                                of pagedone and pillars of our success. </p>
+                            <p class="text-xs text-gray-500 leading-5">We’ve completed over 175 successful website launches, all optimized for high-speed performance. </p>
                         </div>
                     </div>
                 </div>
@@ -302,8 +287,7 @@ get_header(); // This will include header.php
                         </div>
                         <div class="flex-1">
                             <h4 class="text-xl text-gray-900 font-semibold mb-2">Projects Completed</h4>
-                            <p class="text-xs text-gray-500 leading-5">We have accomplished more than 625 projects
-                                worldwide and we are still counting many more.</p>
+                            <p class="text-xs text-gray-500 leading-5">Over 625 projects delivered, all backed by TurboTech’s commitment to unmatched speed and innovation.</p>
                         </div>
                     </div>
                 </div>
@@ -314,7 +298,7 @@ get_header(); // This will include header.php
     <section class=" py-14 lg:py-24 bg-gray-50">
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative">
           <div class="mb-16 rounded-full">
-            <h2 class="text-4xl font-manrope font-bold text-gray-900 text-center">What our happy user says!</h2>
+            <h2 class="text-4xl font-manrope font-bold text-gray-900 text-center">Here’s What Our Clients Are Saying</h2>
           </div>
     
           <div style="--swiper-navigation-color: #fff; --swiper-pagination-color: #fff" class="swiper mySwiper2">
@@ -324,13 +308,16 @@ get_header(); // This will include header.php
                   <!--Slider Wrapper-->
                   <div class="max-w-max mx-auto lg:max-w-4xl">
                     <p class="text-lg text-gray-500 leading-8 mb-8 text-center">
-                      I have been using pagedone for several months now, and I must say that it has made my life a lot
-                      easier. The
-                      platform's intuitive interface and ease of use have allowed me to manage my finances more effectively
-                      and
-                      make informed investment decisions. I particularly like the product's auto-tracking feature, which has
-                      saved
-                      me a lot of time and effort.
+                    TurboTech’s platform has revolutionized how we manage our website. The speed and ease of use have drastically improved our user engagement, and their customer support is top-notch.                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="relative mb-20">
+                  <!--Slider Wrapper-->
+                  <div class="max-w-max mx-auto lg:max-w-4xl">
+                    <p class="text-lg text-gray-500 leading-8 mb-8 text-center">
+                    Switching to TurboTech has saved us countless hours in site maintenance and performance tuning. We’ve seen remarkable improvements in our site's speed and user retention.
                     </p>
                   </div>
                 </div>
@@ -340,29 +327,7 @@ get_header(); // This will include header.php
                   <!--Slider Wrapper-->
                   <div class="max-w-max mx-auto lg:max-w-4xl">
                     <p class="text-lg text-gray-500 leading-8 mb-8 text-center">
-                      I have been using pagedone for several months now, and I must say that it has made my life a lot
-                      easier. The
-                      platform's intuitive interface and ease of use have allowed me to manage my finances more effectively
-                      and
-                      make informed investment decisions. I particularly like the product's auto-tracking feature, which has
-                      saved
-                      me a lot of time and effort.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div class="swiper-slide">
-                <div class="relative mb-20">
-                  <!--Slider Wrapper-->
-                  <div class="max-w-max mx-auto lg:max-w-4xl">
-                    <p class="text-lg text-gray-500 leading-8 mb-8 text-center">
-                      I have been using pagedone for several months now, and I must say that it has made my life a lot
-                      easier. The
-                      platform's intuitive interface and ease of use have allowed me to manage my finances more effectively
-                      and
-                      make informed investment decisions. I particularly like the product's auto-tracking feature, which has
-                      saved
-                      me a lot of time and effort.
+                     Since implementing TurboTech’s solutions, our page load times have decreased dramatically, and our conversion rates have soared. Highly recommend their services
                     </p>
                   </div>
                 </div>
@@ -388,7 +353,7 @@ get_header(); // This will include header.php
               Connect with us
             </h2>
             <p class="text-xl text-indigo-100">
-              Contact us with any query or any idea.
+              Let’s Build Something Fast Together. Reach out to our team for any questions or ideas. 
             </p>
           </div>
           <a
@@ -426,8 +391,8 @@ get_header(); // This will include header.php
               </div>
               <div class="p-4 lg:p-6 transition-all duration-300 rounded-b-2xl group-hover:bg-gray-50">
                   <span class="text-indigo-600 font-medium mb-3 block">Jan 01, 2023</span>
-                  <h4 class="text-xl text-gray-900 font-medium leading-8 mb-5">Clever ways to invest in product to organize your portfolio</h4>
-                  <p class="text-gray-500 leading-6 mb-10">Discover smart investment strategies to streamline and organize your portfolio..</p>
+                  <h4 class="text-xl text-gray-900 font-medium leading-8 mb-5">The Smart Way to Invest in Website Performance</h4>
+                  <p class="text-gray-500 leading-6 mb-10">Explore strategies to streamline and optimize your website for the best user experience</p>
                   <a href="javascript:;" class="cursor-pointer text-lg text-indigo-600 font-semibold">Read more..</a>
               </div>
              </div>
@@ -437,9 +402,11 @@ get_header(); // This will include header.php
               </div>
               <div class="p-4 lg:p-6 transition-all duration-300 rounded-b-2xl group-hover:bg-gray-50">
                   <span class="text-indigo-600 font-medium mb-3 block">Feb 01, 2023</span>
-                  <h4 class="text-xl text-gray-900 font-medium leading-8 mb-5">How to grow your profit through systematic investment with us</h4>
-                  <p class="text-gray-500 leading-6 mb-10">Unlock the power of systematic investment with us and watch your profits soar. Our..</p>
+                    <h4 class="text-xl text-gray-900 font-medium leading-8 mb-5">How to Boost Profits with High-Speed Websites</h4>
+                                      <p class="text-gray-500 leading-6 mb-10">Unlock the potential of a fast website to drive higher engagement and conversions."</p>
+
                   <a href="javascript:;" class="cursor-pointer text-lg text-indigo-600 font-semibold">Read more..</a>
+
               </div>
              </div>
              <div class="group w-full max-lg:max-w-xl lg:w-1/3 border border-gray-300 rounded-2xl">
@@ -448,8 +415,8 @@ get_header(); // This will include header.php
               </div>
               <div class="p-4 lg:p-6 transition-all duration-300 rounded-b-2xl group-hover:bg-gray-50">
                   <span class="text-indigo-600 font-medium mb-3 block">Mar 01, 20233</span>
-                  <h4 class="text-xl text-gray-900 font-medium leading-8 mb-5">How to analyze every holdings of your portfolio</h4>
-                  <p class="text-gray-500 leading-6 mb-10">Our comprehensive guide will equip you with the tools and insights needed to..</p>
+                  <h4 class="text-xl text-gray-900 font-medium leading-8 mb-5">Mastering the Art of Website Performance/</h4>
+                  <p class="text-gray-500 leading-6 mb-10">A comprehensive guide to analyzing and improving every aspect of your website's performance.</p>
                   <a href="javascript:;" class="cursor-pointer text-lg text-indigo-600 font-semibold">Read more..</a>
               </div>
              </div>
